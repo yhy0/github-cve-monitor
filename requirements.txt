@@ -1,0 +1,4 @@
+requests
+dingtalkchatbot
+pyyaml
+lxml
